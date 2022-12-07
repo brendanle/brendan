@@ -5,4 +5,4 @@ Currently majoring in Computer Science. 💻
 
 You can connect with me at [LinkedIn](https://www.linkedin.com/in/3brendan/).
 
-!(https://github-readme-stats.vercel.app/api?username=3brendan&count_private=true&show_icons=true&theme=darcula)
+![](https://github-readme-stats.vercel.app/api?username=3brendan&count_private=true&show_icons=true&theme=darcula)
