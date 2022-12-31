@@ -5,4 +5,4 @@ Currently majoring in Computer Science. 💻
 
 You can connect with me at [LinkedIn](https://www.linkedin.com/in/3brendan/).
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=3brendan)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=3brendan&show_icons=true&count_private=true&theme=moltack&hide=stars,issues,prs)]
