@@ -5,4 +5,9 @@ Currently majoring in Computer Science. 💻
 
 You can connect with me at [LinkedIn](https://www.linkedin.com/in/3brendan/).
 
-[![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=3brendan&show_icons=true&count_private=true&theme=moltack&hide=stars,prs)](https://github-readme-stats.vercel.app/api?username=3brendan&show_icons=true&count_private=true&theme=moltack&hide=stars,prs)
+<a href="https://github-readme-stats.vercel.app/api?username=3brendan&show_icons=true&count_private=true&theme=moltack&hide=stars,prs&show_icons=true">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=3brendan&show_icons=true&count_private=true&theme=moltack&hide=stars,prs&show_icons=true" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=3brendan&layout=compact">
+  <img align="center" src="hhttps://github.com/3brendan/github-readme-stats" />
+</a>
