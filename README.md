@@ -1,7 +1,7 @@
-# Hello there, I am Brendan. 👋
+# 👨‍💻 Brendan Le
 Currently majoring in Computer Science. 💻
 
-- I'm currently working on fine-tuning my Node JavaScript skills with a hint of Python and C++.
+- I'm currently working on fine-tuning my C++, Python, and Node skills.
 
 You can connect with me at [LinkedIn](https://www.linkedin.com/in/3brendan/).
 
@@ -10,5 +10,6 @@ You can connect with me at [LinkedIn](https://www.linkedin.com/in/3brendan/).
 </p>
 
 <p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=3brendan"/>
+    <img align="center" src="https://streak-stats.demolab.com?user=3brendan&theme=darcula&hide_border=true"/>
 </p>
+
