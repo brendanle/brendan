@@ -1,7 +1,7 @@
 # 👨‍💻 Brendan Le
 Currently majoring in Computer Science. 💻
 
-- I'm currently working on fine-tuning my C++, Python, and Node skills.
+- I'm currently working on fine-tuning my C++, Git, Node, and Python skills.
 
 You can connect with me at [LinkedIn](https://www.linkedin.com/in/3brendan/).
 
