@@ -3,7 +3,7 @@ Currently majoring in Computer Science. 💻
 
 - I'm currently working on fine-tuning my C++, Git, Node, and Python skills.
 
-You can connect with me at [LinkedIn](https://www.linkedin.com/in/3brendan/).
+You can connect with me at [LinkedIn](https://www.linkedin.com/in/threebrendan/).
 
 <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=3brendan&show_icons=true&count_private=true&theme=moltack&hide=stars,prs&show_icons=true"/>
