@@ -1,7 +1,7 @@
 ### Hello, I'm Brendan. 💻
 
-Currently a Junior at Hunter College, majoring in Computer Science.
-Currently working on fine-tuning my C++, Node, Git, and Python skills.
+Currently a Junior at Hunter College, majoring in Computer Science.  
+Currently working on fine-tuning my C++, Node, Git, and Python skills.  
 
 You can connect with me at [LinkedIn](https://www.linkedin.com/in/lebrendan/).
 
