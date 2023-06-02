@@ -1,9 +1,7 @@
 ### Hello, I'm Brendan. 💻
 
-Currently a Junior at Hunter College, majoring in Computer Science.  
-Currently working on fine-tuning my C++, Node, Git, and Python skills.  
-
-You can connect with me at [LinkedIn](https://www.linkedin.com/in/lebrendan/).
+You can connect with me at [LinkedIn](https://www.linkedin.com/in/lebrendan/).<br>
+Here's my personal [website](https://brendanle.github.io/).
 
 <div>
     <img align="center" src="https://streak-stats.demolab.com?user=brendanle&theme=darcula&hide_border=true"/>
